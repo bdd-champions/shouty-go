@@ -16,7 +16,5 @@ func (c *Coordinate) DistanceFrom(other *Coordinate) float64 {
 	//       e.g. return math.Abs(c.X - other.X)
 	//            ^^^ this is not correct, but it will make the tests pass.
 
-	// return math.Sqrt(math.Pow(c.X-other.X, 2) + math.Pow(c.Y-other.Y, 2))
-
 	return 0
 }
