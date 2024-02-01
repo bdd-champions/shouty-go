@@ -11,7 +11,7 @@ That is, if you're attending a BDD course.
 
 ## Get the code
 
-    git clone https://github.com/bddchampions/shouty-go
+    git clone https://github.com/bdd-champions/shouty-go
     cd shouty-go
 
 ## Install dependencies
